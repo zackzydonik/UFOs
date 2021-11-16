@@ -12,11 +12,11 @@ To filter through the data on the webpage a user must load the page and enter th
 
 For example, a user will first come to the landing page that will display all the data in the table. 
 
-![image_name]()
+![image_name](https://github.com/zackzydonik/UFOs/blob/1f5cb7ff627e2570316db23aed14b03c7f5d74f3/static/images/Homepage.png)
 
 They can then filter by date for example 1/13/2020 and ackerman to recieve the one row of data that matches this search criteria.
 
-![image_name]()
+![image_name](https://github.com/zackzydonik/UFOs/blob/1f5cb7ff627e2570316db23aed14b03c7f5d74f3/static/images/Filtered.png)
 
 ## Summary
 One drawback of the new design is that the search criteria will only match rows that have both criteria, not one or the other.
